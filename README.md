@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishitha K</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="350" border-radius="10px" src="https://miro.medium.com/v2/resize:fit:1358/1*kIacWWXjfYBFXqIXhIuCXQ.gif">
+<img align="right" alt="coding" width="350" border-radius="10px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG15eXVyeWgxZHRqbmE2OXZjMmpmMnRjN2ZncnRiZ2o5eTEzcHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20views&color=0e75b6&style=flat" alt="Rishithak" /> </p>
 
 - 🔭 I’m currently Studying *BCA [Bachelor of Computer Applicatios]*
