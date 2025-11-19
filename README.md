@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="350" border-radius="10px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG15eXVyeWgxZHRqbmE2OXZjMmpmMnRjN2ZncnRiZ2o5eTEzcHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20views&color=0e75b6&style=flat" alt="Rishithak" /> </p>
 
-- 🔭 I’m currently Studying *BCA [Bachelor of Computer Applicatios]*
+- 🔭 I’m currently Studying *MCA [Master of Computer Applicatios]*
 
 - 📫 How to reach me *rishithak399@gmail.com*
 
