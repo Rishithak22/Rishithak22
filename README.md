@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20views&color=0e75b6&style=flat" alt="Rishithak" /> 
 </p>
 
-## 👩‍💻 About Me
 
 - 🎓 Currently pursuing **MCA (Master of Computer Applications)**
 - 💻 Passionate about **Web Development & Full Stack Development**
