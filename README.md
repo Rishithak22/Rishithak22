@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishitha K</h1>
 <h3 align="center">MCA Student | Passionate Web Developer | Frontend Enthusiast</h3>
 
-<img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG15eXVyeWgxZHRqbmE2OXZjMmpmMnRjN2ZncnRiZ2o5eTEzcHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.webp">
+<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG15eXVyeWgxZHRqbmE2OXZjMmpmMnRjN2ZncnRiZ2o5eTEzcHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.webp">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20views&color=0e75b6&style=flat" alt="Rishithak" /> 
@@ -26,7 +26,7 @@
 
 ## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
 <a href="mailto:rishithak399@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -40,8 +40,6 @@
 </a>
 </p>
 
-
----
 
 ## 🛠 Languages and Tools
 
@@ -82,7 +80,7 @@
 ## 📊 GitHub Stats
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishithak22&show_icons=true&locale=en&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishithak22&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
