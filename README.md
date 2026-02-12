@@ -2,6 +2,10 @@
 <h3 align="center">MCA Student | Passionate Web Developer | Frontend Enthusiast</h3>
 
 <p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG15eXVyeWgxZHRqbmE2OXZjMmpmMnRjN2ZncnRiZ2o5eTEzcHoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5vCZ5J3EJBQ7IkvO9/giphy.webp" width="300"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
@@ -12,16 +16,14 @@
 
 <br>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
-<p align="center">
-🎓 MCA (Master of Computer Applications) Student <br>
-💻 Passionate about Web Development & Full Stack Development <br>
-🌱 Currently learning Advanced Java & SQL <br>
-🚀 Goal: To become a Skilled Full Stack Developer <br>
-📍 Location: India <br>
-📧 Email: rishithak399@gmail.com
-</p>
+🎓 MCA (Master of Computer Applications) Student  
+💻 Passionate about Web Development & Full Stack Development  
+🌱 Currently learning Advanced Java & SQL  
+🚀 Goal: To become a Skilled Full Stack Developer  
+📍 Location: India  
+📧 Email: rishithak399@gmail.com  
 
 <br>
 
@@ -48,17 +50,17 @@
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
 </p>
 
 <br>
