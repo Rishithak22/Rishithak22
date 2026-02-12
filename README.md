@@ -7,25 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20views&color=0e75b6&style=flat" alt="Rishithak" /> 
 </p>
 
----
-
 ## 👩‍💻 About Me
 
 - 🎓 Currently pursuing **MCA (Master of Computer Applications)**
 - 💻 Passionate about **Web Development & Full Stack Development**
-- 🌱 Currently learning **Advanced Java & SQL**
+- 🌱 Currently learning **Advanced Java**
 - 🚀 Goal: To become a skilled Full Stack Developer
 - 📍 Location: India
-
----
 
 ## 📬 Contact Information
 
 📧 **Email:** rishithak399@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/rishitha-k-40a443277/  
 📸 **Instagram:** https://instagram.com/rishi_tha_k  
-
----
 
 ## 🌐 Connect With Me
 
@@ -42,8 +36,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
----
 
 ## 🛠 Languages and Tools
 
@@ -73,8 +65,6 @@
 </a>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p>
@@ -88,8 +78,6 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishithak22&" />
 </p>
-
----
 
 ## ✨ Motto
 
