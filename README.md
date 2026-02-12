@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Rishithak22&label=Profile%20views&color=0e75b6&style=flat" alt="Rishithak" /> 
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Rishithak22?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Rishithak22?label=Total%20Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Rishithak22?label=Forks&style=for-the-badge" />
-</p>
-
 
 ## 👩‍💻 About Me
 
